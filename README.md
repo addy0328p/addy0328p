@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
-<h3 align="center">Hi there! 👋I'm Aditya , I am currently in my 3rd year of B.Tech in Information Technology at IIIT Bhopal. I am passionate about Full Stack Development (MERN stack) and Software Development Engineering (SDE) roles, constantly honing my skills in these areas. I have a strong grasp of Data Structures and Algorithms (DSA), demonstrated by solving over 500 problems on competitive coding platforms like GeeksforGeeks and LeetCode. .</h3>
+<h3 align="center">Hi there! 👋I'm Aditya , I am currently in my 3rd year of B.Tech in **Information Technology at IIIT Bhopal**. I am passionate about **Full Stack Development (MERN stack) and Software Development Engineering (SDE) **roles, constantly honing my skills in these areas. I have a strong grasp of Data Structures and Algorithms (DSA), demonstrated by solving over 500 problems on competitive coding platforms like GeeksforGeeks and LeetCode. .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy0328p&label=Profile%20views&color=0e75b6&style=flat" alt="addy0328p" /> </p>
 
@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"
   
 - 🔭 I’m currently working on [Revising Backend](https://github.com/addy0328p/Backend)
-- 🌱 I’m currently learning **NestJS, MySQL, AWS,OAuth, JWT, role-based access control (RBAC).OAuth, JWT, role-based access control (RBAC).**
+- 🌱 I’m currently learning **NestJS, MySQL, AWS,OAuth, JWT, role-based access control (RBAC).OAuth.**
 - 👨‍💻 All of my projects are available at [WILL BE READY SOON!![PORTFOLIO])  
 - 💬 Ask me about **react, javascript, Data Structures, whatever u Want**
 - 📫 How to reach me **addy2803hack@gmail.com**
