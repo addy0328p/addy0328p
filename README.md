@@ -4,11 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy0328p&label=Profile%20views&color=0e75b6&style=flat" alt="addy0328p" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addy0328p&label=Profile%20views&color=0e75b6&style=flat" alt="addy0328p" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy0328p" alt="addy0328p" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"
+ <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
   
 - 🔭 I’m currently working on [Revising Backend](https://github.com/addy0328p/Backend)
 - 🌱 I’m currently learning **NestJS, MySQL, AWS,OAuth, JWT, role-based access control (RBAC).OAuth.**
