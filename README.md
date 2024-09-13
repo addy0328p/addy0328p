@@ -9,15 +9,10 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"
   
 - 🔭 I’m currently working on [Revising Backend](https://github.com/addy0328p/Backend)
-  
 - 🌱 I’m currently learning **NestJS, MySQL, AWS,OAuth, JWT, role-based access control (RBAC).OAuth, JWT, role-based access control (RBAC).**
-  
-- 👨‍💻 All of my projects are available at [WILL BE READY SOON!![PORTFOLIO]](WILL BE READY SOON!![PORTFOLIO])
-  
+- 👨‍💻 All of my projects are available at [WILL BE READY SOON!![PORTFOLIO])  
 - 💬 Ask me about **react, javascript, Data Structures, whatever u Want**
-  
 - 📫 How to reach me **addy2803hack@gmail.com**
-  
 - ⚡ Fun fact **CODING IS FUN!!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
