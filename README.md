@@ -1,3 +1,4 @@
+![logo](https://github.com/abhigyan31/abhigyan31/blob/main/banner.JPG)
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
 <h3 align="center">Hi there! 👋I'm Aditya , I am currently in my 3rd year of B.Tech in Information Technology at IIIT Bhopal. I am passionate about Full Stack Development (MERN stack) and Software Development Engineering (SDE) roles, constantly honing my skills in these areas. I have a strong grasp of Data Structures and Algorithms (DSA), demonstrated by solving over 500 problems on competitive coding platforms like GeeksforGeeks and LeetCode. .</h3>
 
