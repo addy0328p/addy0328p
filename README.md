@@ -22,9 +22,7 @@
 </a>
 
 
-<a href="https://codeforces.com/profile/addy2803hack" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="addy2803hack" height="30" width="40" />
-</a>
+
 <a href="https://www.leetcode.com/addy0328p" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="addy0328p" height="30" width="40" />
 </a>
