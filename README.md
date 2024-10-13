@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy0328p" alt="addy0328p" /></a> </p>
 
- <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
+ <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5cef22bd459e8074e52de8fcd3a5486da825d9480d2dddfbda061dd72f464f4a/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a3341794f445671646a6870596a6c70656d307a623370714d6e6473596a646f636e42314e445a7664544e74624841304e5870725a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5262444b61637a71576f76497567794a6d572f67697068792e77656270">
   
 - 🔭 I’m currently working on [Revising Backend](https://github.com/addy0328p/Backend)
 - 🌱 I’m currently learning **NestJS, MySQL, AWS,OAuth, JWT, role-based access control (RBAC).OAuth.**
