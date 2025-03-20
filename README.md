@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working on [Revising Backend](https://github.com/addy0328p/Backend)
 - 🌱 I’m currently learning **NestJS, MySQL, AWS,OAuth, JWT, role-based access control (RBAC).OAuth.**
-- 👨‍💻 All of my projects are available at [WILL BE READY SOON!![PORTFOLIO])  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://addy0328p.github.io/aditya-portfolio/)
 - 💬 Ask me about **react, javascript, Data Structures, whatever u Want**
 - 📫 How to reach me **addy2803hack@gmail.com**
 - ⚡ Fun fact **CODING IS FUN!!**
