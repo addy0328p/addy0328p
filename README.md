@@ -3,8 +3,6 @@
 <h3 align="center">Hi there! 👋I'm Aditya , I am currently in my 3rd year of B.Tech in Information Technology at IIIT Bhopal. I am passionate about Full Stack Development (MERN stack) and Software Development Engineering (SDE) roles, constantly honing my skills in these areas. I have a strong grasp of Data Structures and Algorithms (DSA), demonstrated by solving over 500 problems on competitive coding platforms like GeeksforGeeks and LeetCode. .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy0328p&label=Profile%20views&color=0e75b6&style=flat" alt="addy0328p" /> </p>
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy0328p" alt="addy0328p" /></a> </p>
 
  <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5cef22bd459e8074e52de8fcd3a5486da825d9480d2dddfbda061dd72f464f4a/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a3341794f445671646a6870596a6c70656d307a623370714d6e6473596a646f636e42314e445a7664544e74624841304e5870725a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5262444b61637a71576f76497567794a6d572f67697068792e77656270">
@@ -16,10 +14,6 @@
 <a href="https://linkedin.com/in/aditya-p01" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-p01" height="30" width="40" />
 </a>
-
-
-
-
 </p>
 
 # 💻 Tech Stack:
