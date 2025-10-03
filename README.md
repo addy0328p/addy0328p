@@ -1,6 +1,6 @@
 ![logo](https://github.com/addy0328p/addy0328p/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
-<h3 align="center">Hi there! 👋I'm Aditya , I am currently in my 3rd year of B.Tech in Information Technology at IIIT Bhopal. I am passionate about Full Stack Development (MERN stack) and Software Development Engineering (SDE) roles, constantly honing my skills in these areas. I have a strong grasp of Data Structures and Algorithms (DSA), demonstrated by solving over 500 problems on competitive coding platforms like GeeksforGeeks and LeetCode. .</h3>
+<h3 align="center">Hi there! 👋I'm Aditya , I am currently in my 4th year of B.Tech in Information Technology at IIIT Bhopal. I am passionate about Full Stack Development (MERN stack) and Software Development Engineering (SDE) roles, constantly honing my skills in these areas. I have a strong grasp of Data Structures and Algorithms (DSA), demonstrated by solving over 500 problems on competitive coding platforms like GeeksforGeeks and LeetCode. .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy0328p&label=Profile%20views&color=0e75b6&style=flat" alt="addy0328p" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy0328p" alt="addy0328p" /></a> </p>
