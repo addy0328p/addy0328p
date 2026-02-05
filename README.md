@@ -1,38 +1,207 @@
+<!-- HEADER -->
+
+<div align="center">
+
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hi%20👋,%20I'm%20Aditya%20Pandey&fontSize=48&fontAlignY=40&animation=twinkling" />
+
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);SDE+Enthusiast;500%2B+DSA+Problems+Solved;Open+Source+Contributor" />
+  </a>
+
+</div>
+
+---
+
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
 
-<h3 align="center">Hi there! 👋I'm Aditya , I am currently in my 4th year of B.Tech in Information Technology at IIIT Bhopal. I am passionate about Full Stack Development (MERN stack) and Software Development Engineering (SDE) roles, constantly honing my skills in these areas. I have a strong grasp of Data Structures and Algorithms (DSA), demonstrated by solving over 500 problems on competitive coding platforms like GeeksforGeeks and LeetCode. .</h3>
+<h3 align="center">
+4th Year B.Tech IT Student at IIIT Bhopal | MERN Stack Developer | SDE Aspirant | Competitive Programmer
+</h3>
 
+<p align="center">
+Passionate about building scalable web apps and backend systems.  
+Strong in Data Structures & Algorithms with 500+ problems solved on major platforms.
+</p>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addy0328p&label=Profile%20views&color=0e75b6&style=flat" alt="addy0328p" /> </p>
+## 📊 Profile Overview
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy0328p" alt="addy0328p" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=addy0328p&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=addy0328p&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
+---
 
- <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5cef22bd459e8074e52de8fcd3a5486da825d9480d2dddfbda061dd72f464f4a/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a3341794f445671646a6870596a6c70656d307a623370714d6e6473596a646f636e42314e445a7664544e74624841304e5870725a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5262444b61637a71576f76497567794a6d572f67697068792e77656270">
+## 👨‍💻 About Me
 
-  
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://addy0328p.github.io/aditya-portfolio/)
+- 🎓 4th Year B.Tech IT @ IIIT Bhopal  
+- 💻 MERN Stack & Backend Developer  
+- 📈 500+ DSA Problems Solved  
+- 🚀 Interested in SDE & Full Stack Roles  
+- 🌱 Learning System Design & AI Integration  
 
-- 📫 How to reach me **addy2803hack@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Portfolio & Contact
+
+- 👨‍💻 Portfolio:  
+  👉 https://addy0328p.github.io/aditya-portfolio/
+
+- 📧 Email:  
+  👉 **addy2803hack@gmail.com**
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/aditya-p01" target="blank">
+<a href="https://linkedin.com/in/aditya-p01" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       height="30" width="40" />
+</a>
 
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-p01" height="30" width="40" />
+<a href="https://github.com/addy0328p" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"
+       height="30" width="40" />
+</a>
 
+<a href="https://leetcode.com/u/addyRT2817p/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg"
+       height="30" width="40" />
 </a>
 
 </p>
 
+---
 
+## 💻 Tech Stack
 
-# 💻 Tech Stack:
+### 🚀 Languages & Core
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
+---
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+---
+
+### ⚙️ Backend & Databases
+
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
+
+---
+
+### ☁️ DevOps & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=addy0328p&show_icons=true&theme=radical&hide_border=true" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=addy0328p&theme=radical&hide_border=true" height="160"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy0328p&layout=compact&theme=radical&hide_border=true" height="140"/>
+</p>
+
+---
+
+## ⚡ LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/addyRT2817p?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
+## 😄 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" />
+</p>
+
+---
+
+## 🚀 Top Projects
+
+### 🟢 Prime Bid — Real-Time Auction Platform
+**Stack:** MERN, Socket.io, Redis, Cloudinary  
+- Built a scalable real-time bidding system
+- Handles 100+ concurrent users & 50+ bids/sec
+- Secure authentication using JWT & Bcrypt  
+
+🔗 Repo: https://github.com/addy0328p/mern_auction_platform_backend
+
+---
+
+### 🧠 Smart Context AI (LLM + Vector DB)
+**Stack:** LangChain, Pinecone, Flask, AWS  
+- Intelligent document Q&A using LLMs
+- High-accuracy semantic search
+- Vector embeddings with Pinecone  
+
+🔗 Repo: https://github.com/addy0328p/Project_LLMs_LangChain_Pinecone_Flask_AWS
+
+---
+
+### 🚗 Vehiql — Vehicle Marketplace
+**Stack:** Next.js, Prisma, Supabase, Gemini API  
+- AI-powered image recognition
+- Advanced filtering & listings
+- Secure admin & user dashboard  
+
+🔗 Repo: https://github.com/addy0328p/Vehiql
+
+---
+
+### 🤖 Gen AI — GAN Image Generator
+**Stack:** Python, PyTorch  
+- Implemented GANs on CIFAR-10 dataset
+- Image synthesis & training pipeline
+- Model evaluation & tuning  
+
+🔗 Repo: https://github.com/addy0328p/Gen_AI_Project
+
+---
+---
+
+⭐️ From [Aditya Pandey](https://github.com/addy0328p)
