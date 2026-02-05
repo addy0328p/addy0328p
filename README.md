@@ -3,24 +3,27 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
-<h3 align="center">Full Stack Developer (MERN) | Competitive Programmer | SDE Aspirant</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(MERN);Competitive+Programmer;SDE+Aspirant;Open+Source+Enthusiast" alt="Typing Animation" />
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/aditya-p01">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:addy2803hack@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://addy0328p.github.io/aditya-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 <br/>
 
 <div align="center">
-  I am a 4th-year <b>B.Tech IT student at IIIT Bhopal</b>, passionate about building scalable web applications and solving complex algorithmic problems. With a strong foundation in <b>Data Structures and Algorithms</b> (500+ problems solved), I am constantly honing my skills in backend architecture and full-stack development.
+  I am a 4th-year <b>B.Tech IT student at IIIT Bhopal</b>, passionate about building scalable web applications. With a strong foundation in <b>Data Structures and Algorithms</b> (500+ problems solved), I am constantly honing my skills in backend architecture and full-stack development.
 </div>
 
 <br/>
@@ -31,70 +34,13 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" /><br>PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" /><br>GCP
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres" alt="Backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,redis,postman" alt="Tools" />
+</div>
 
 ---
 
@@ -112,21 +58,25 @@
 ### 📊 Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=addy0328p&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <a href="https://leetcode.com/u/addyRT2817p/">
-    <img src="https://leetcard.app/card?username=addyRT2817p&theme=radical&font=Inter&ext=heatmap" alt="LeetCode Stats" />
-  </a>
+
+<a href="https://github.com/addy0328p">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=addy0328p&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/addy0328p">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy0328p&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://leetcode.com/u/addyRT2817p/">
+  <img src="https://leetcode-stats-six.vercel.app/?username=addyRT2817p&theme=tokyonight" alt="LeetCode Stats" />
+</a>
+
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=addy0328p&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</div>
-
----
 
 <div align="center">
   <small>Open to SDE and Full Stack opportunities. Let's build something amazing together!</small>
