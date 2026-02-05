@@ -1,202 +1,38 @@
-<!--
-  README.md for Aditya Pandey (addy0328p)
-  - Paste this file into the root of your GitHub repo to replace the README.
-  - Quick customization: search & replace `addy0328p`, `addyRT2817p`, and LinkedIn URL if needed.
--->
+<h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
 
-<!-- HEADER: animated waving capsule + typing -->
-<div align="center">
-  <!-- Background banner (capsule-render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hi%20👋%2C%20I'm%20Aditya%20Pandey&fontSize=56&fontAlignY=40&animation=twinkling" alt="Hi, I'm Aditya Pandey" />
+<h3 align="center">Hi there! 👋I'm Aditya , I am currently in my 4th year of B.Tech in Information Technology at IIIT Bhopal. I am passionate about Full Stack Development (MERN stack) and Software Development Engineering (SDE) roles, constantly honing my skills in these areas. I have a strong grasp of Data Structures and Algorithms (DSA), demonstrated by solving over 500 problems on competitive coding platforms like GeeksforGeeks and LeetCode. .</h3>
 
-  <!-- Typing animation -->
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Competitive+Programmer+🏆;500%2B+DSA+Problems+Solved;Open+Source+Contributor" alt="Typing animation" />
-  </a>
-</div>
 
----
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=addy0328p&label=Profile%20views&color=0e75b6&style=flat" alt="addy0328p" /> </p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=addy0328p&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/addy0328p)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy0328p" alt="addy0328p" /></a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya-p01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://addy0328p.github.io/aditya-portfolio/)
-[![Twitter](https://img.shields.io/badge/Twitter-@addy0328p-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/) <!-- replace if you want -->
-[![Mail](https://img.shields.io/badge/Email-Contact-brightgreen?style=for-the-badge&logo=gmail)](mailto:addy0328p@example.com) <!-- replace with real email if desired -->
 
-</div>
 
----
+ <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5cef22bd459e8074e52de8fcd3a5486da825d9480d2dddfbda061dd72f464f4a/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a3341794f445671646a6870596a6c70656d307a623370714d6e6473596a646f636e42314e445a7664544e74624841304e5870725a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5262444b61637a71576f76497567794a6d572f67697068792e77656270">
 
-# 👨‍💻 Aditya Pandey — Full Stack Developer (MERN) & Competitive Programmer
+  
 
-**4th-year B.Tech IT student** at IIIT Bhopal. Passionate about building scalable web apps, real-time systems, and applying AI to product problems. Strong DSA background — **500+ problems solved** across platforms.
+- 👨‍💻 All of my projects are available at [My Portfolio](https://addy0328p.github.io/aditya-portfolio/)
 
----
+- 📫 How to reach me **addy2803hack@gmail.com**
 
-## 🎯 Quick stats
+<h3 align="left">Connect with me:</h3>
 
-<div align="center">
-  <a href="https://github.com/addy0328p">
-    <img src="https://github-readme-stats.vercel.app/api?username=addy0328p&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/addy0328p">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=addy0328p&theme=radical&hide_border=true" height="150" alt="streak" />
-  </a>
-</div>
+<p align="left">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy0328p&layout=compact&theme=radical&hide_border=true&langs_count=8" height="140" alt="Top Languages" />
-</div>
+<a href="https://linkedin.com/in/aditya-p01" target="blank">
 
----
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-p01" height="30" width="40" />
 
-## 📚 Table of contents
+</a>
 
-- [About me](#-about-me)
-- [Tech Stack](#-tech-stack)
-- [Top Projects](#-top-projects)
-- [Open Source & Activity](#-open-source--activity)
-- [Experience & Achievements](#-experience--achievements)
-- [Contact](#-contact)
-- [How to reuse this README](#-how-to-reuse-this-readme)
-
----
-
-## 👋 About me
-
-<table>
-  <tr>
-    <td width="48%" valign="top">
-      <h3>Who I am</h3>
-      - 4th-year B.Tech IT student at IIIT Bhopal.<br/>
-      - Focus: MERN stack, backend systems, real-time architecture, and AI integrations.<br/>
-      - DSA: 500+ problems solved (LeetCode / Codeforces / CodeChef).<br/>
-      - Enjoy building production-ready systems with a strong emphasis on performance & reliability.
-    </td>
-    <td width="52%" valign="top" align="center">
-      <!-- fun coding GIF -->
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding gif" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Languages:** Python · JavaScript (ES6+) · TypeScript · C++ · Java · SQL  
-**Frontend:** React · Next.js · Tailwind CSS · HTML · CSS  
-**Backend:** Node.js · Express · REST · GraphQL · Socket.io · Redis · Prisma · MongoDB · MySQL · Supabase  
-**AI / ML:** LangChain · Pinecone · Hugging Face · PyTorch  
-**DevOps:** Docker · AWS · GCP · CI/CD · Git · Postman
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,aws&theme=dark" alt="skills" />
-</div>
-
----
-
-## 🚀 Top Projects
-
-> Links under each project: **Code** = repo, **Live** = deployed (if available)
-
-### Prime Bid — Real-time Auction Platform
-- **Stack:** MERN, Socket.io, Redis, Cloudinary, Node-Cron  
-- **Highlights:** real-time bidding, concurrency handling, 100+ concurrent users, 50+ bids/sec, secure JWT auth.  
-- 🔗 **Code:** https://github.com/addy0328p/mern_auction_platform_backend
-
----
-
-### Smart Context AI
-- **Stack:** LangChain, Pinecone, Flask, AWS  
-- **Highlights:** Vector DB + LLM for context retrieval and high-accuracy responses.  
-- 🔗 **Code:** https://github.com/addy0328p/Project_LLMs_LangChain_Pinecone_Flask_AWS
-
----
-
-### Vehiql — Vehicle Management Marketplace
-- **Stack:** Next.js 15, Prisma, Supabase, ArcJect/Clerk auth  
-- **Highlights:** ID-driven listings, advanced search using Google Gemini API, drag-and-drop UI.  
-- 🔗 **Code:** https://github.com/addy0328p/Vehiql
-
----
-
-### Gen AI (GANs)
-- **Stack:** Python, PyTorch  
-- **Highlights:** GAN-based image synthesis on CIFAR-10, training experiments and evaluation scripts.  
-- 🔗 **Code:** https://github.com/addy0328p/Gen_AI_Project
-
----
-
-## 🧩 Open Source & Coding Profiles
-
-- **LeetCode:** Solved 500+ problems — https://leetcode.com/u/addyRT2817p/  
-- **GeeksforGeeks / CodeChef / Codeforces:** Active across platforms.  
-- **GitHub Trophies:**  
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=addy0328p&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="trophy"/>
-  </div>
-
----
-
-## 🏆 Experience & Achievements
-
-- Offered a Teaching Assistant role in 4th semester (top 5% in batch).  
-- Ranked within the top 2.8% among 10L+ students in IIT JEE Mains 2022.  
-- Led a team at Inspire Society (15+ members), organized 5+ events.  
-- Top 25 rank in Graph Theory Camp (AlgoUniversity, Dec 2024).
-
----
-
-## 📈 Contribution & Activity
-
-<!-- Contribution graph (animated-ish) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=addy0328p&theme=react-dark&area=true" alt="Contribution graph" />
 </p>
 
----
 
-## ✨ Animations & small UX touches used
-- **Capsule header** for a waving gradient banner.  
-- **Typing SVG** to present dynamic role lines.  
-- **GitHub readme stats & streak** for live contribution and language metrics.  
-- **Activity graph** for contributions (via an embeddable service).  
-All animations are image/SVG based — no scripts are required, so GitHub will render them safely.
 
----
+# 💻 Tech Stack:
 
-## 📬 Contact
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-- LinkedIn: https://linkedin.com/in/aditya-p01  
-- Portfolio: https://addy0328p.github.io/aditya-portfolio/  
-- GitHub: https://github.com/addy0328p  
-- LeetCode: https://leetcode.com/u/addyRT2817p/  
-> Replace `mailto:` email badge above with your real email if you want direct contact from the README.
-
----
-
-## 📝 How to reuse / Customize quickly
-
-1. Replace `addy0328p` in badge/image URLs with your GitHub username if you rename your account.  
-2. If any badge images show as broken, open the image URL in a new tab and confirm the username/path.  
-3. To change the typing lines, edit the `readme-typing-svg` query params (lines=...).  
-4. Remove the "customization hints" comment block at the top if you want a clean file.
-
----
-
-## 📜 License
-
-This README template is free to use — adapt it and make it yours.  
-If you want, I can also:
-- produce a **resume-ready PDF** using this content, or
-- create a **small animated GitHub Actions** workflow that refreshes stats daily.
-
----
-
-Thanks — I migrated all your original content into a modern, readable layout and added animated touches that render on GitHub (SVGs + badge images). Paste this into your `README.md` and check it on GitHub; if anything needs moving (order of projects, extra badges, or a downloadable resume link), tell me exactly what to change and I’ll update the file content right away. 🚀
