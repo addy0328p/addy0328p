@@ -33,9 +33,7 @@ Strong in Data Structures & Algorithms with 500+ problems solved on major platfo
   <img src="https://komarev.com/ghpvc/?username=addy0328p&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=addy0328p&theme=radical&no-frame=true&margin-w=10" />
-</p>
+
 
 ---
 
