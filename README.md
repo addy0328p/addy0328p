@@ -127,21 +127,7 @@ Strong in Data Structures & Algorithms with 500+ problems solved on major platfo
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=addy0328p&show_icons=true&theme=radical&hide_border=true" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=addy0328p&theme=radical&hide_border=true" height="160"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy0328p&layout=compact&theme=radical&hide_border=true" height="140"/>
-</p>
-
----
 
 ## ⚡ LeetCode Stats
 
