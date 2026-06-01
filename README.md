@@ -62,7 +62,7 @@ Learning : System Design, LLMs, Cloud Architecture
       <p>
         <img src="https://img.shields.io/badge/Nov%202025-May%202026-20c20e?style=for-the-badge&logo=calendar&logoColor=white" />
         &nbsp;
-        <img src="https://img.shields.io/badge/SDE%20Intern-Full%20Time-00b4d8?style=for-the-badge&logo=briefcase&logoColor=white" />
+        <img src="https://img.shields.io/badge/SDE%20Intern-00b4d8?style=for-the-badge&logo=briefcase&logoColor=white" />
       </p>
       <ul>
         <li>🔧 Contributed to scalable product features across the full stack</li>
