@@ -1,16 +1,15 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20c20e,100:00b4d8&height=200&section=header&text=Aditya%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SDE%20Enthusiast&descSize=20&descAlignY=58&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20c20e,100:00b4d8&height=200&section=header&text=Aditya%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SDE%20%40%20CausalFunnel&descSize=20&descAlignY=58&animation=twinkling" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=20C20E&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Pandey!;Full+Stack+Developer+(MERN+%2B+Next.js);500%2B+DSA+Problems+Solved+%F0%9F%94%A5;LangChain+%7C+AI+%7C+Vector+DB+Explorer;Open+Source+Contributor+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=20C20E&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Pandey!;SDE+Intern+%40+CausalFunnel+%F0%9F%9A%80;Full+Stack+Developer+(MERN+%2B+Next.js);500%2B+DSA+Problems+Solved+%F0%9F%94%A5;LangChain+%7C+AI+%7C+Vector+DB+Explorer;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=addy0328p&label=Profile+Views&color=20c20e&style=for-the-badge" />
 &nbsp;
 <a href="https://github.com/addy0328p?tab=followers">
@@ -35,6 +34,7 @@ Learning : System Design, LLMs, Cloud Architecture
 ```
 
 - 🎓 4th Year B.Tech IT @ **IIIT Bhopal**
+- 💼 **SDE Intern @ CausalFunnel** (Nov 2025 – May 2026)
 - 💻 **MERN Stack** & Backend Developer
 - 📈 **500+ DSA Problems** Solved across platforms
 - 🤖 Exploring **LLMs, LangChain & Vector Databases**
@@ -45,28 +45,94 @@ Learning : System Design, LLMs, Cloud Architecture
 
 ---
 
+## 💼 Work Experience
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=3&width=800" />
+
+</div>
+
+<br/>
+
+<table align="center" width="85%">
+  <tr>
+    <td>
+      <h3>🏢 <a href="https://www.linkedin.com/company/causalfunnel">CausalFunnel</a> &nbsp;—&nbsp; <em>Software Development Engineer Intern</em></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Nov%202025-May%202026-20c20e?style=for-the-badge&logo=calendar&logoColor=white" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/SDE%20Intern-Full%20Time-00b4d8?style=for-the-badge&logo=briefcase&logoColor=white" />
+      </p>
+      <ul>
+        <li>🔧 Contributed to scalable product features across the full stack</li>
+        <li>⚡ Worked on backend services, APIs & data pipelines</li>
+        <li>🤝 Collaborated with cross-functional engineering teams in an Agile environment</li>
+        <li>📊 Worked on analytics-driven tools and marketing-tech solutions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌐 Connect & Reach Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://addy0328p.github.io/aditya-portfolio/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1l1nBIZO8Dijh86XNu6qFeciSyMv6TDK-/view?usp=sharing)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addy2803hack@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://addy0328p.github.io/aditya-portfolio/)
+&nbsp;
+[![Email](https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addy2803hack@gmail.com)
+
+<br/><br/>
+
+<!-- Animated Resume Button using capsule-render -->
+<a href="https://drive.google.com/file/d/1l1nBIZO8Dijh86XNu6qFeciSyMv6TDK-/view?usp=sharing" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=50&text=%F0%9F%93%84%20%20View%20My%20Resume&fontSize=20&fontColor=ffffff&animation=twinkling&width=280" />
+</a>
 
 </div>
 
 ---
 
-## 🤝 Social & Competitive Profiles
+## 🤝 Social Profiles
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-p01/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addy0328p)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/addyRT2817p/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditya12bone)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/main_atom_88/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/aditya1ffgc)
+<a href="https://www.linkedin.com/in/aditya-p01/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+&nbsp;
+<a href="https://github.com/addy0328p" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+<!-- Row 1: LeetCode highlighted -->
+<a href="https://leetcode.com/u/addyRT2817p/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/aditya12bone" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-aditya12bone-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.codechef.com/users/main_atom_88/" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-main__atom__88-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/aditya1ffgc" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksForGeeks-aditya1ffgc-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
 </div>
 
@@ -129,33 +195,10 @@ Learning : System Design, LLMs, Cloud Architecture
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=addy0328p&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=addy0328p&theme=radical&hide_border=true" />
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy0328p&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-
-</div>
-
----
-
 ## ⚡ LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/addyRT2817p?theme=dark&font=Baloo&ext=heatmap" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=addy0328p&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7" />
 </div>
 
 ---
@@ -171,6 +214,51 @@ Learning : System Design, LLMs, Cloud Architecture
 | 🤖 | [**Gen AI** — GAN Image Generator](https://github.com/addy0328p/Gen_AI_Project) | Python · PyTorch | GANs on CIFAR-10 · Image synthesis · Model tuning |
 | 📧 | [**Email Campaign Tool**](https://github.com/addy0328p/Email-Campaign-Tool-Golang) | Go (Golang) | Bulk email campaigns · Efficient concurrency |
 | 🌾 | [**Crop Prediction** — ML Model](https://github.com/addy0328p/Crop_Prediction_using_ML) | Python · scikit-learn | ML-based smart crop recommendation system |
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Top+2.8%25+in+IIT+JEE+Mains+2022+%F0%9F%94%A5;AIR+224+in+TCS+CodeVita+2025+among+1L%2B+participants+%F0%9F%8F%86;Top+25+in+Graph+Theory+Camp+%E2%80%94+AlgoUniversity+Dec+2024+%F0%9F%8E%AF;Teaching+Assistant+%E2%80%94+Top+5%25+in+Batch+%F0%9F%8E%93;Google+Cloud+Skill+Boost+%E2%80%94+11+Badges+%F0%9F%8C%9F" />
+
+</div>
+
+<br/>
+
+<table align="center" width="85%">
+  <tr>
+    <td>🎓</td>
+    <td>Offered a <strong>Teaching Assistant role</strong> in 4th semester for ranking among the <strong>top 5%</strong> in batch</td>
+  </tr>
+  <tr>
+    <td>🔥</td>
+    <td>Ranked in the <strong>top 2.8%</strong> among <strong>10L+ students</strong> in <strong>IIT JEE Mains 2022</strong></td>
+  </tr>
+  <tr>
+    <td>🏆</td>
+    <td>Secured <strong>All India Rank 224</strong> among <strong>1L+ participants</strong> in <strong>TCS CodeVita 2025</strong></td>
+  </tr>
+  <tr>
+    <td>☁️</td>
+    <td>Completed <strong>Google Cloud Skill Boost Program</strong> with <strong>11 badges</strong> in the Arcade Game Program — <a href="https://www.skills.google/public_profiles/c56c4a79-dd72-406c-8810-c0ea84697193"><strong>View Profile</strong></a></td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td>Selected among <strong>80K+ students</strong> for the <strong>Graph Theory Camp (AlgoUniversity, Dec 2024)</strong> — achieved a <strong>top 25 rank</strong></td>
+  </tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+<a href="https://www.skills.google/public_profiles/c56c4a79-dd72-406c-8810-c0ea84697193" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Skills-11%20Badges%20Earned-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</a>
 
 </div>
 
@@ -194,7 +282,6 @@ Learning : System Design, LLMs, Cloud Architecture
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:20c20e,100:0d1117&height=120&section=footer" />
 
 <sub>⭐️ From <a href="https://github.com/addy0328p">Aditya Pandey</a> — Made with ❤️ and lots of ☕</sub>
