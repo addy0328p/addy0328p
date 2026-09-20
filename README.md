@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20c20e,100:00b4d8&height=200&section=header&text=Aditya%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SDE%20%40%20CausalFunnel&descSize=20&descAlignY=58&animation=twinkling" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:20c20e,100:00b4d8&height=200&section=header&text=Aditya%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20AI%20%40%20IndiaMART&descSize=20&descAlignY=58&animation=twinkling" />
 
 <!-- Typing Animation -->
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=20C20E&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Pandey!;SDE+Intern+%40+CausalFunnel+%F0%9F%9A%80;Full+Stack+Developer+(MERN+%2B+Next.js);500%2B+DSA+Problems+Solved+%F0%9F%94%A5;LangChain+%7C+AI+%7C+Vector+DB+Explorer;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=20C20E&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Pandey!;Software+Engineer+%40+IndiaMART+%F0%9F%9A%80;Backend+Developer+%7C+Go+%7C+Python;Building+AI-Powered+Scalable+Systems;500%2B+DSA+Problems+Solved+%F0%9F%94%A5;LLMs+%7C+Microservices+%7C+Cloud" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,34 +20,34 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```yaml
 Name     : Aditya Pandey
-College  : IIIT Bhopal — B.Tech IT (4th Year)
-Role     : MERN Stack & Backend Developer
+Education: IIIT Bhopal — B.Tech in Information Technology
+Role     : Software Engineer — Backend AI @ IndiaMART
 DSA      : 500+ Problems Solved
-Focus    : SDE Roles | Full Stack | AI Integration
-Learning : System Design, LLMs, Cloud Architecture
-```
+Focus    : Backend Engineering | AI Integration | Microservices
+Stack    : Go, Python, Redis, Kafka, PostgreSQL, GKE
 
-- 🎓 4th Year B.Tech IT @ **IIIT Bhopal**
-- 💼 **SDE Intern @ CausalFunnel** (Nov 2025 – May 2026)
-- 💻 **MERN Stack** & Backend Developer
-- 📈 **500+ DSA Problems** Solved across platforms
-- 🤖 Exploring **LLMs, LangChain & Vector Databases**
-- 🚀 Passionate about **scalable systems & clean code**
-- 🌱 Currently leveling up in **System Design & AI**
+🎓 B.Tech in Information Technology from IIIT Bhopal (2022–2026)
+
+💼 Software Development Engineer (Backend AI) @ IndiaMART
+
+⚙️ Building high-concurrency microservices with Go, Python, Redis & Kafka
+
+📈 500+ DSA Problems Solved across platforms
+
+🤖 Integrating OpenAI GPT, Langfuse & Kibana for AI-powered workflows
+
+🚀 Passionate about scalable systems & clean code
+
+🌱 Currently building sales AI agents & automated seller workflows
 
 <br clear="right"/>
 
----
-
-## 💼 Work Experience
+💼 Work Experience
 
 <div align="center">
 
@@ -58,44 +60,56 @@ Learning : System Design, LLMs, Cloud Architecture
 <table align="center" width="85%">
   <tr>
     <td>
+      <h3>🏢 <a href="https://www.linkedin.com/company/indiamart-intermesh-limited/">IndiaMART</a> &nbsp;—&nbsp; <em>Software Development Engineer (Backend AI)</em></h3>
+      <p>
+        <img src="https://img.shields.io/badge/July%202026-Present-20c20e?style=for-the-badge&logo=calendar&logoColor=white" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Backend%20AI-00b4d8?style=for-the-badge&logo=briefcase&logoColor=white" />
+      </p>
+      <ul>
+        <li>⚡ Built a high-concurrency Go microservice for real-time AI replies, reducing API latency from 38 ms to 7–8 ms</li>
+        <li>🤖 Integrated OpenAI GPT for contextual replies and conversation summarization</li>
+        <li>📊 Added LLM tracing, monitoring and observability with Langfuse and Kibana</li>
+        <li>🚀 Developing a sales AI agent to automate seller workflows and improve interaction efficiency</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h3>🏢 <a href="https://www.linkedin.com/company/causalfunnel">CausalFunnel</a> &nbsp;—&nbsp; <em>Software Development Engineer Intern</em></h3>
       <p>
-        <img src="https://img.shields.io/badge/Nov%202025-May%202026-20c20e?style=for-the-badge&logo=calendar&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dec%202025-May%202026-20c20e?style=for-the-badge&logo=calendar&logoColor=white" />
         &nbsp;
         <img src="https://img.shields.io/badge/SDE%20Intern-00b4d8?style=for-the-badge&logo=briefcase&logoColor=white" />
       </p>
       <ul>
-        <li>🔧 Contributed to scalable product features across the full stack</li>
-        <li>⚡ Worked on backend services, APIs & data pipelines</li>
-        <li>🤝 Collaborated with cross-functional engineering teams in an Agile environment</li>
-        <li>📊 Worked on analytics-driven tools and marketing-tech solutions</li>
+        <li>⚡ Improved Heatmap and User Journey analytics, increasing frontend responsiveness by 25%</li>
+        <li>🔧 Resolved 30+ API and JSON issues across React and Python services, reducing API errors by 40%</li>
+        <li>🧪 Enhanced A/B testing workflows and fixed UI inconsistencies across 50+ components</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
-
-## 🌐 Connect & Reach Me
+🌐 Connect & Reach Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://addy0328p.github.io/aditya-portfolio/)
-&nbsp;
-[![Email](https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addy2803hack@gmail.com)
+
+ 
+
 
 <br/><br/>
 
 <!-- Animated Resume Button using capsule-render -->
+
 <a href="https://drive.google.com/file/d/1l1nBIZO8Dijh86XNu6qFeciSyMv6TDK-/view?usp=sharing" target="_blank">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=50&text=%F0%9F%93%84%20%20View%20My%20Resume&fontSize=20&fontColor=ffffff&animation=twinkling&width=280" />
 </a>
 
 </div>
 
----
-
-## 🤝 Social Profiles
+🤝 Social Profiles
 
 <div align="center">
 
@@ -109,14 +123,13 @@ Learning : System Design, LLMs, Cloud Architecture
 
 </div>
 
----
-
-## ⚔️ Competitive Programming
+⚔️ Competitive Programming
 
 <div align="center">
 
 <!-- Row 1: LeetCode highlighted -->
-<a href="https://leetcode.com/u/addyRT2817p/" target="_blank">
+
+<a href="https://leetcode.com/u/coder_a_D/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
 </a>
 &nbsp;
@@ -136,90 +149,117 @@ Learning : System Design, LLMs, Cloud Architecture
 
 </div>
 
----
-
-## 💻 Tech Stack
+💻 Tech Stack
 
 <div align="center">
 
-### 🚀 Languages
+🚀 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🤖 AI / ML
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### ☁️ DevOps & Tools
+🎨 Frontend
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+
+
+
+
+
+
+
+⚙️ Backend & Databases
+
+
+
+
+
+
+
+
+
+
+
+
+🤖 AI / ML
+
+
+
+
+
+
+
+
+☁️ DevOps & Tools
+
+
+
+
+
+
+
+
+
 
 </div>
 
----
-
-## ⚡ LeetCode Stats
+⚡ LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/addyRT2817p?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/coder_a_D?theme=dark&font=Baloo&ext=heatmap" />
 </div>
 
----
-
-## 🚀 Top Projects
+🚀 Top Projects
 
 <div align="center">
 
-| 🔢 | Project | Stack | Highlights |
-|---|---------|-------|-----------|
-| 🟢 | [**Prime Bid** — Real-Time Auction Platform](https://github.com/addy0328p/mern_auction_platform_backend) | MERN · Socket.io · Redis · Cloudinary | 100+ concurrent users · 50+ bids/sec · JWT Auth |
-| 🧠 | [**Smart Context AI** — LLM + Vector DB](https://github.com/addy0328p/Project_LLMs_LangChain_Pinecone_Flask_AWS) | LangChain · Pinecone · Flask · AWS | Semantic doc Q&A · Vector embeddings · High accuracy |
-| 🤖 | [**Gen AI** — GAN Image Generator](https://github.com/addy0328p/Gen_AI_Project) | Python · PyTorch | GANs on CIFAR-10 · Image synthesis · Model tuning |
-| 📧 | [**Email Campaign Tool**](https://github.com/addy0328p/Email-Campaign-Tool-Golang) | Go (Golang) | Bulk email campaigns · Efficient concurrency |
-| 🌾 | [**Crop Prediction** — ML Model](https://github.com/addy0328p/Crop_Prediction_using_ML) | Python · scikit-learn | ML-based smart crop recommendation system |
+🔢
+
+Project
+
+Stack
+
+Highlights
+
+✈️
+
+TripPlan AI — AI Travel Planner
+
+FastAPI · LangGraph · AI Agents
+
+Personalized itinerary generation · Multi-step AI workflow · Live Demo
+
+🟢
+
+Prime Bid — Real-Time Auction Platform
+
+MERN · Socket.io · Redis · Cloudinary
+
+100+ concurrent users · 50+ bids/sec · JWT Auth
+
+🤖
+
+Gen AI — GAN Image Generator
+
+Python · PyTorch
+
+GANs on CIFAR-10 · Image synthesis · Model tuning
+
+🏥
+
+ZeeCare — Hospital Management System
+
+React · Node.js · MongoDB · JWT
+
+Role-based access · Appointment management · Live Demo
 
 </div>
 
----
-
-## 🏅 Achievements
+🏅 Achievements
 
 <div align="center">
 
@@ -262,23 +302,17 @@ Learning : System Design, LLMs, Cloud Architecture
 
 </div>
 
----
-
-## 🐍 Contribution Graph
+🐍 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=addy0328p&theme=react-dark&hide_border=true&area=true" />
 </div>
 
----
-
-## 😄 Random Dev Joke
+😄 Random Dev Joke
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" />
 </div>
-
----
 
 <div align="center">
 
