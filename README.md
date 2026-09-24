@@ -5,14 +5,8 @@ width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0969DA,100:00B4D8&height=210&section=header&text=Aditya%20Pandey&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Generative%20AI&descSize=20&descAlignY=58&animation=twinkling"
 />
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%40+IndiaMART+%F0%9F%9A%80;Backend+Engineering+%7C+Go+%7C+Python;Building+AI-Powered+Production+Systems+%F0%9F%A4%96;Microservices+%7C+LLM+Agents+%7C+RAG;LangGraph+%7C+FastAPI+%7C+Kafka+%7C+Redis;500%2B+LeetCode+Problems+Solved+%F0%9F%94%A5"
-    alt="Typing SVG"
-  />
-</a>
 
-<br/>
+
 
 <a href="https://github.com/addy0328p">
   <img src="https://komarev.com/ghpvc/?username=addy0328p&label=PROFILE+VIEWS&color=0969DA&style=for-the-badge" />
@@ -361,18 +355,6 @@ Earned <strong>11 Google Cloud badges</strong> through the Arcade program.
 <a href="https://www.skills.google/public_profiles/c56c4a79-dd72-406c-8810-c0ea84697193">
   <img src="https://img.shields.io/badge/Google_Cloud-11_Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </a>
-
-</div>
-
-🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/addy0328p/addy0328p/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/addy0328p/addy0328p/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/addy0328p/addy0328p/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
